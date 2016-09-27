@@ -19,7 +19,5 @@ Return an empty array if N < 1
 
 # About the solution
 
-Since it was really difficult for me to come up with a working idea I decided to look up solutions.
-
-At the end I used this sites description:
+I used this sites description:
 - http://www.guideforschool.com/1260759-java-program-to-print-circular-spiral-matrix/
